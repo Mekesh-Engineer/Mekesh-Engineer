@@ -47,7 +47,7 @@
   <tr>
     <td width="58%" valign="middle">
       <p>
-        ⚡ Final-year <b>Electrical &amp; Electronics Engineering</b> undergraduate at <b>Kongu Engineering College, TN</b> (CGPA: 7.71).
+        ⚡ Final-year <b>Electrical &amp; Electronics Engineering</b> undergraduate at <b>Kongu Engineering College, TN.
       </p>
       <p>
         🛠️ <b>Cyber-Physical Engineering:</b> Uniting deterministic <b>C++ / FreeRTOS firmware</b> on microcontrollers (ESP32, ARM Cortex-M), real-time <b>Computer Vision &amp; AI (YOLOv8 / OpenCV)</b>, and responsive <b>3D Spatial Web telemetry (React 19, Next.js 15 &amp; Three.js)</b>.
